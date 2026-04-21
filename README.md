@@ -164,6 +164,9 @@ streamlit run app.py
 * La configuración de la URL del API, en la visualización, debe estar en un archivo llamado config.py
 * Estos dos archivos no deben estar en la dinámica de git, agregarlos al .gitignore
 
+## Captura Local
+<img width="1920" height="1200" alt="Captura desde 2026-04-21 11-58-51" src="https://github.com/user-attachments/assets/241b8f61-c16c-4a26-a0af-0d3a55d9f702" />
+
 ---
 
 # PARTE 2: GitHub
