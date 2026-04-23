@@ -2,6 +2,8 @@
 
 # Taller: IaaS local con Multipass, FastAPI, PostgreSQL y Streamlit
 
+Copiar el contenido de config.py.bk y base.py.bk en un archivo .py para que pueda ser replicado en su equipo
+
 ## Objetivo
 
 Construir un sistema distribuido con tres máquinas virtuales:
