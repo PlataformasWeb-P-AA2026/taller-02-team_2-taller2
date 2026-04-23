@@ -12,8 +12,5 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Base de datos y backups
-base_datos/respaldo.sql
-
 # Logs y otros
 *.log
