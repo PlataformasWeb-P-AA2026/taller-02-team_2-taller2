@@ -1,6 +1,5 @@
 # Configuración sensible
 api/base.py
-visualizacion/config.py
 
 # Entornos virtuales
 venv/
