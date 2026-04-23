@@ -1,3 +1,6 @@
+
+base.py
+
 # Entornos virtuales
 venv/
 .env
